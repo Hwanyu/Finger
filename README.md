@@ -1,2 +1,2 @@
 # Finger
-servo motor finger move
+Finger movement control using servo motor
